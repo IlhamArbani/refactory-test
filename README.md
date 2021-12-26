@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Logic Test
+  - palindrome.js
+  - LeapYaer.js
+  - ReverseWords.js
+  - Fibonacci.js
+  - FizzBuzz.js
+
+### JSON Manipulation
+  - JsonManipulation.js
+
+### Mini Aps
+  - MiniApps.js
+
+## All file located in ./src/pages
